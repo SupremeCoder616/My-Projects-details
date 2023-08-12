@@ -1,2 +1,2 @@
 # My-Projects-details
-<h1>👋 Hi I'm MERN stack developer</h1>
+<h1>👋 Hi I'm Kartik Kumar MERN stack developer</h1>
