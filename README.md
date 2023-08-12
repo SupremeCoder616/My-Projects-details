@@ -7,4 +7,4 @@
 <p>I have started making both these projects and I will bring these two projects to my git as soon as possible.</p>
 <p>Although I have made projects like E-commerce and blog with google firebase but now I am making both these projects with MERN stack.</p>
 
-<a href="https://www.linkedin.com/in/kartik-kumar-mern/">My LinkedIn profile (kartik kumar MERN)</a>
+<a href="https://www.linkedin.com/in/kartik-kumar-mern/" target="_blank">My LinkedIn profile (kartik kumar MERN)</a>
